@@ -2,4 +2,7 @@
 <br>
 <br>
 <br>
-<h2>Esse foi um projeto que aprendi nas aulas do Rodrigo Mori na plataforma do DevClub</h2>
+<h2>Esse foi um projeto que aprendi nas aulas do Rodrigo Mori na plataforma <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<br>
+<br>
+<img src="https://github.com/carlosjuniordev30/CRIACAO-READM-GIT-DEVCLUB/blob/master/PC.png?raw=true"/>
