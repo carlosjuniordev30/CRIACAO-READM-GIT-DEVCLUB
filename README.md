@@ -13,4 +13,5 @@
 <br>
 
 <img align="left" src="https://github.com/carlosjuniordev30/CRIACAO-READM-GIT-DEVCLUB/blob/master/CELULAR.png?raw=true" alt="celular"/>
+<img align="left" src="https://github.com/carlosjuniordev30/CRIACAO-READM-GIT-DEVCLUB/blob/master/PC.png?raw=true" style="width:55%"/>
 
